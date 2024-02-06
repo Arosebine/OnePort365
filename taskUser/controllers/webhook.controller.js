@@ -13,6 +13,7 @@ exports.subscribeWebhook= async (req, res) => {
   }
   const newWebhook = await Webhook.create({ url });
   webhookService.subscribeWebhook(newWebhook);
+  webhookService.notifyWebhooks({ event: "SUBSCRIPTION_CREATED", data: newWebhook });
   return res.status(200).json({ message: 'Webhook subscription successful', newWebhook });
 };
 
@@ -38,7 +39,7 @@ exports.webhookNotify=async (req, res) => {
   if (!data) {
     return res.status(400).json({ message: 'Invalid data' });
   }
-  webhookService.notifyWebhooks(data);
+  webhookService.notifyWebhooks({ event: "task.created", data });
   return res.status(200).json({ message: 'Webhook notification successful' });
 };
 
