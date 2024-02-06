@@ -1,0 +1,8 @@
+/taskProcessor/node_modules
+node_modules
+/taskUser/node_modules
+/taskWebhook/node_modules
+/taskProducer/.env
+/taskWebhook/.env
+/taskProcessor/.env
+.env

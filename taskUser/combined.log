@@ -1,0 +1,131 @@
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":"GET /api/user/emailVerify/00501599776916396ace0a5f4fd3a50f"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /api/user/emailVerify/00501599776916396ace0a5f4fd3a50f"}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":"POST /api/user/forgotpassword"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com"}}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","cache-control":"no-cache","connection":"keep-alive","content-length":"40","content-type":"application/json","host":"localhost:3980","postman-token":"db755c60-3a2e-4e66-bde4-7ba018a02b7c","user-agent":"PostmanRuntime/7.36.1"}}
+{"level":"info","message":"POST /api/user/forgotpassword"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com"}}
+{"level":"info","message":{"accept":"*/*","accept-encoding":"gzip, deflate, br","cache-control":"no-cache","connection":"keep-alive","content-length":"40","content-type":"application/json","host":"localhost:3980","postman-token":"b28b9582-7245-4bed-819e-70388eeaed87","user-agent":"PostmanRuntime/7.36.1"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/forgotpassword"}
+{"level":"info","message":{"password":"Seyico09@","token":"9db665"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/resetpassword"}
+{"level":"info","message":{"password":"Seyico09@","token":"9db665"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/task/getAllTask"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","password":"Seyico09@"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/task/getAllTask"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/task/taskStatus/65c23ec41aa5d3fffadb21e3"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"PUT /api/task/updateTask/65c23ec41aa5d3fffadb21e3"}
+{"level":"info","message":{"description":"This employee should see me with his letter.","status":"IN PROGRESS","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"PUT /api/task/updateTask/65c23ec41aa5d3fffadb21e3"}
+{"level":"info","message":{"description":"This employee should see me with his letter.","status":"IN PROGRESS","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"DELETE /api/task/deleteTask/65c23b8a87825103052b8524"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"DELETE /api/task/deleteTask/65c23b8a87825103052b8524"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"DELETE /api/task/deleteTask/65c23b8a87825103052b8524"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"DELETE /api/task/deleteTask/65c239491bf606fa5ec837fb"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun8902345678902345678902345678","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/notify"}
+{"level":"info","message":"POST /api/webhook/notify"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/unsubscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
