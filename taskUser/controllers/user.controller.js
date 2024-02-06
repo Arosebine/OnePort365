@@ -40,7 +40,7 @@ exports.signUp = async (req, res) => {
       subject: 'Welcome to the Oneport365 app',
       message: `Hi ${newUser.firstName} ${newUser.lastName},
                      Please, Kindly click on the link to verify your email,
-                     <a href="${process.env.VERIFY_EMAIL}/emailVerify/${token.token}">Verify your Email Here </a>`
+                     <a href="${process.env.VERIFY_EMAIL}/emailVerify/${token.token}">Verify your Email Here</a>`
     });
     return res.status(201).json({
       message: 'User created',

@@ -129,3 +129,155 @@
 {"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
 {"level":"warn","message":{}}
 {"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","password":"Seyico09@"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"http://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https://localhost:3980/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https://www.github.com/api/task/getAllTask"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https://github.com/Arosebine/OnePort365"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https://github.com/Arosebine/OnePort365"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https://github.com/Arosebine/OnePort365"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https://github.com/Arosebine/OnePort365"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/webhook/subscribe"}
+{"level":"info","message":{"secretKey":"iun89023456789023456789023456789","url":"https:/Arosebine/OnePort365"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/user/emailVerify/00501599776916396ace0a5f4fd3a50f"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/user/emailVerify/00501599776916396ace0a5f4fd3a50f"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET //api/user//emailVerify/8ecfa0fc06f382539064f4e648a298ab"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET //api/user//emailVerify/460fa84d0d71ec62350f41b3632f799d"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET //api/user//emailVerify/460fa84d0d71ec62350f41b3632f799d"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"arebine@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET //api/user//emailVerify/460fa84d0d71ec62350f41b3632f799d"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET //api/user//emailVerify/9de1c55d998146933cdb239376c9e43b"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/signup"}
+{"level":"info","message":{"email":"arebine@gmail.com","firstName":"Bolaji","lastName":"Arowole","password":"Seyico09@","phoneNumber":"08023433900"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/user/emailVerify/a2030f539a2467680f3c4c3648549c21"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"GET /api/user/emailVerify/a2030f539a2467680f3c4c3648549c21"}
+{"level":"info","message":{}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":{"email":"ebisco4ui@gmail.com","password":"Seyico09@"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":{"email":"arebine@gmail.com","password":"Seyico09@"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":{"email":"arebine@gmail.com","password":"Seyico09@"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/user/login"}
+{"level":"info","message":{"email":"arebine@gmail.com","password":"Seyico09@"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}
+{"level":"info","message":"POST /api/task/createTask"}
+{"level":"info","message":{"description":"All the employee in the department of sales should be fully employed.","title":"employment letter"}}
+{"level":"warn","message":{}}
+{"level":"error","message":{}}

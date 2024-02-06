@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config();
 const express = require("express")
 const bodyParser = require('body-parser')
 const connectDB = require('../taskUser/database/taskbase');
@@ -10,7 +10,7 @@ const logger = require('../taskUser/utils/logger');
 
 
 
-const app = express();
+const app = express(); 
 connectDB();
 port = process.env.PORT || 3000;
 
@@ -25,7 +25,6 @@ app.use((req, res, next) => {
     logger.info(req.body);
     logger.warn(req.query);
     logger.error(req.params);
-
     next();
 });
 
