@@ -6,3 +6,5 @@ node_modules
 /taskWebhook/.env
 /taskProcessor/.env
 .env
+combined.log
+error.log
