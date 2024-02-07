@@ -4,7 +4,7 @@ const { auth } = require("../middlewares/auth");
 const userController = require("../controllers/user.controller");
 const router = express.Router();
 
-// router.use(limiter);
+router.use(limiter);
 router.post("/signup", userController.signUp);
 router.post("/login", userController.userLogin);
 router.get("/emailVerify/:token", userController.emailVerify );
