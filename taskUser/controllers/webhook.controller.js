@@ -39,7 +39,7 @@ exports.webhookNotify=async (req, res) => {
   if (!data) {
     return res.status(400).json({ message: 'Invalid data' });
   }
-  webhookService.notifyWebhooks({ event: "task.created", data });
+  webhookService.notifyWebhooks({ event: "task created", data });
   return res.status(200).json({ message: 'Webhook notification successful' });
 };
 

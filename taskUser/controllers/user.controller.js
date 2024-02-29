@@ -54,7 +54,7 @@ exports.signUp = async (req, res) => {
   }
 }
 
-// to verify student/user email
+// to verify user email
 exports.emailVerify = async(req, res) => {
     try {
         const token = req.params.token
@@ -142,14 +142,14 @@ exports.userLogin = async(req, res) => {
     }
 };
 
-// Student view his profile
+// user view his profile
 
 exports.viewUserProfile = async(req, res) => {
     try {        
         const id= req.user;
         const existingUser = await User.findById(id);
         const userStatus = await User.findById(existingUser._id);
-        if (userStatus.roles === 'student') {
+        if (userStatus.roles === 'user') {
         const user = await User.findOne({ _id: userStatus._id });
         if (!user) {
             return res.status(400).json({
@@ -162,7 +162,7 @@ exports.viewUserProfile = async(req, res) => {
         });
       }else{
         return res.status(400).json({
-            message: 'You must be registered student to view your profile',
+            message: 'You must be registered user to view your profile',
         });
       }
     } catch (error) {

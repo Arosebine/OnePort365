@@ -18,7 +18,7 @@ exports.updateTask = async (taskId, userId, status, title, description, approved
     }catch(error){
         console.log("Error updating task :"+error)
         return {
-            error:error,
+            error: error.message,
             message: "Error updating task"
         }
     }
